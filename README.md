@@ -2,6 +2,7 @@
 - 🔭 Atualmente estou trabalhando como Tech Support Engineer<br>
 - 🌱 Estou estudando: **Python, Pandas, Numpy, Cloud computing...**<br>
 - ⚡ Curiosidade: **Amo tocar violão :D**
+---
 - Projetos<br>
 -   [Analisando dados do Airbnb](https://github.com/YanGermanoSantos/YanGermano_Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 - 
