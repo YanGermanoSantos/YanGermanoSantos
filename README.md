@@ -5,11 +5,7 @@
 
 
 ## 🌐 Minhas redes:
-<p align="left">
-<a href="https://linkedin.com/in/yan-sql-datascience-pythongermano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yan-sql-datascience-pythongermano" height="30" width="40" /></a>
-<a href="https://kaggle.com/yangermano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yangermano" height="30" width="40" /></a>
-<a href="https://medium.com/@yan.germano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yan.germano" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-sql-datascience-pythongermano) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yan.germano) [![Kaggle](https://img.shields.io/badge/kaggle-12100E?logo=kaggle&logoColor=white)](https://www.kaggle.com/yangermano)
 
 
 # 💻 Tecnologias:
