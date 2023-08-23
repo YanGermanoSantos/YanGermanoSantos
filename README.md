@@ -4,7 +4,7 @@
 - ⚡ Curiosidade: **Amo tocar violão :D**
 ---
 - Projetos<br>
---   [Analisando dados do Airbnb](https://github.com/YanGermanoSantos/YanGermano_Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
+ • [Analisando dados do Airbnb](https://github.com/YanGermanoSantos/YanGermano_Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 
 ## 🌐 Minhas redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-sql-datascience-pythongermano) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yan.germano) [![Kaggle](https://img.shields.io/badge/kaggle-12100E?logo=kaggle&)](https://www.kaggle.com/yangermano)
