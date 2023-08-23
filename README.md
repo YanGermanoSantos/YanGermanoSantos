@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Yan Germano</h1>
 <h3 align="center">Entusiasta apaixonado por Ciência de Dados.</h3>
-- 🌱 Estou focado em Ciência de Dados **Python, Pandas, Numpy, Cloud computing...**
+- 🌱 Estou focado em Ciência de Dados **Python, Pandas, Numpy, Cloud computing**
 
 
 - ⚡ Curiosidade **Amo tocar violão :D**
