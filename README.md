@@ -1,9 +1,9 @@
 # 💫 Sobre mim:
-- 🔭 Atualmente estou trabalhando como Tech Support Engineer, onde estou envolvido no fornecimento de soluções e assistência técnica para resolver desafios e problemas relacionados a tecnologia. Meu trabalho envolve colaboração com equipes multidisciplinares e garantia de que os sistemas funcionem de maneira eficaz para os clientes.<br><br>
-- 🌱 Estou focado em Ciência de Dados **Python, Pandas, Numpy, Cloud computing...**<br><br>
-- ⚡ Curiosidade **Amo tocar violão :D**
-
-- Projetos [Analisando dados do Airbnb](https://github.com/YanGermanoSantos/YanGermano_Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
+- 🔭 Atualmente estou trabalhando como Tech Support Engineer<br>
+- 🌱 Estou estudando: **Python, Pandas, Numpy, Cloud computing...**<br><br>
+- ⚡ Curiosidade: **Amo tocar violão :D**
+- Projetos<br>
+-   [Analisando dados do Airbnb](https://github.com/YanGermanoSantos/YanGermano_Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 - 
 ## 🌐 Minhas redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-sql-datascience-pythongermano) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yan.germano) [![Kaggle](https://img.shields.io/badge/kaggle-12100E?logo=kaggle&)](https://www.kaggle.com/yangermano)
