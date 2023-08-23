@@ -1,4 +1,5 @@
-# 💫 Sobre mim:
+<h1 align="center">Olá sou Yan Germano</h1>
+<h3 align="center">Entusiasta apaixonado por Ciência de Dados.</h3>
 
 Sou um entusiasta de ciência de dados imerso em projetos para aprimorar minhas habilidades técnicas. Estou em constante aprendizado para alcançar meu objetivos! Descobrir insights profundos e impulsionam estratégias de negócios com o objetivo de fazer a diferença é o meu objetivo.
 
