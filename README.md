@@ -1,6 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Yan Germano</h1>
-<h3 align="center">Entusiasta apaixonado por Ciência de Dados</h3>
-- 🌱 Estou focado em Ciência de Dados **Amo tocar violão :D**
+<h3 align="center">Entusiasta apaixonado por Ciência de Dados.</h3>
+- 🌱 Estou focado em Ciência de Dados **Python, Pandas, Numpy, Cloud computing...**
+
 
 - ⚡ Curiosidade **Amo tocar violão :D**
 
@@ -28,7 +29,7 @@
 <a href="https://github.com/YanGermanoSantos">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YanGermanoSantos&theme=algolia" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YanGermanoSantos&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YanGermanoSantos&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YanGermanoSantos&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YanGermanoSantos&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YanGermanoSantos&theme=algolia" height="180em" />
 </div>
