@@ -1,9 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Yan Germano</h1>
 <h3 align="center">Entusiasta apaixonado por Ciência de Dados.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YanGermanoSantos&label=Profile%20views&color=0e75b6&style=flat" alt="YanGermanoSantos" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YanGermanoSantos&theme=discord" alt="YanGermanoSantos" /></a> </p>
-
 - 🌱 Estou focado em Ciência de Dados **Python, Pandas, Numpy, Cloud computing...**
 
 
