@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/YanGermanoSantos/YanGermanoSantos/blob/main/blue%20and%20white%20minimalist%20business%20illustration%20facebook%20cover.png">
 <h1 align="center">Olá sou Yan Germano</h1>
 <h3 align="center">Entusiasta apaixonado por Ciência de Dados.</h3>
 
