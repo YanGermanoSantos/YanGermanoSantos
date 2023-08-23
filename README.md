@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+<h1 align="center"> 💫 Sobre mim: </h1>
 - 🔭 Atualmente estou trabalhando como Tech Support Engineer<br>
 - 🌱 Estou estudando: **Python, Pandas, Numpy, Cloud computing...**<br>
 - ⚡ Curiosidade: **Amo tocar violão :D**
