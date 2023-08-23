@@ -1,4 +1,7 @@
 # 💫 Sobre mim:
+
+Sou um entusiasta de ciência de dados imerso em projetos para aprimorar minhas habilidades técnicas. Estou em constante aprendizado para alcançar meu objetivos! Descobrir insights profundos e impulsionam estratégias de negócios com o objetivo de fazer a diferença é o meu objetivo.
+
 - 🔭 Atualmente estou trabalhando como Tech Support Engineer<br>
 - 🌱 Estou estudando: **Python, Pandas, Numpy, Cloud computing...**<br>
 - ⚡ Curiosidade: **Amo tocar violão :D**
