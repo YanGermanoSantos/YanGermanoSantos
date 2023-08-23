@@ -3,7 +3,8 @@
 - 🌱 Estou focado em Ciência de Dados. Hoje tenho um sólido domínio em SQL, utilizando minhas habilidades para gerenciar e manipular bancos de dados de forma eficaz. Estou em constante aprimoramento das minhas habilidades em Python para análise de dados. Além disso, estou em processo de aprendizado contínuo de outras ferramentas essenciais, como bibliotecas de análise de dados em Python (Pandas, Numpy), criação de visualizações (Matplotlib, Seaborn), e também estou explorando conceitos e técnicas avançadas de machine learning com o auxílio do TensorFlow e Scikit-Learn.<br><br>
 - ⚡ Curiosidade **Amo tocar violão :D**
 
-
+- Projetos [Analisando dados do Airbnb](YanGermano_Data_Science)
+- 
 ## 🌐 Minhas redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-sql-datascience-pythongermano) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yan.germano) [![Kaggle](https://img.shields.io/badge/kaggle-12100E?logo=kaggle&)](https://www.kaggle.com/yangermano)
 
