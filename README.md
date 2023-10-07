@@ -9,6 +9,7 @@ Sou um entusiasta de ciência de dados imerso em projetos para aprimorar minhas 
 - ⚡ Curiosidade: **Amo tocar violão :D**
 ## 👨‍💻 Projetos:
  • [Analisando dados do Airbnb](https://github.com/YanGermanoSantos/YanGermano_Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
+ 
  • [Maior causa de acidentes nas rodovias brasileiras](https://github.com/YanGermanoSantos/Analise_Dados_PRF)
  
 ## 🌐 Minhas redes:
