@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/user-attachments/assets/d60454ba-22b4-4179-ad5d-058e2d33e700">
+<img align="center" src="https://github.com/user-attachments/assets/28de1fbc-fa4e-4ab8-8fc1-b10388d77356">
 <h1 align="center">Olá sou Yan Germano</h1>
 
 <h3 align="center">Entusiasta apaixonado por Ciência de Dados.</h3>
@@ -7,7 +7,7 @@ Sou um entusiasta de ciência de dados imerso em projetos para aprimorar minhas 
 
 - 🔭 Atualmente estou trabalhando como Tech Support Engineer<br>
 - 🌱 Estou estudando: **Python, Pandas, Numpy, Cloud computing...**<br>
-- ⚡ Curiosidade: **Amo tocar violão :D**
+- ⚡ Curiosidade: **Amo tocar guitarra :D**
 ## 👨‍💻 Projetos:
 - [Analisando dados do Airbnb](https://github.com/YanGermanoSantos/YanGermano_Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 - [Maior causa de acidentes nas rodovias brasileiras](https://github.com/YanGermanoSantos/Analise_Dados_PRF)
