@@ -1,5 +1,6 @@
-<img align="center" src="https://github.com/YanGermanoSantos/YanGermanoSantos/blob/main/CapaGit.png">
+<img align="center" src="https://github.com/user-attachments/assets/d60454ba-22b4-4179-ad5d-058e2d33e700">
 <h1 align="center">Olá sou Yan Germano</h1>
+
 <h3 align="center">Entusiasta apaixonado por Ciência de Dados.</h3>
 
 Sou um entusiasta de ciência de dados imerso em projetos para aprimorar minhas habilidades técnicas. Estou em constante aprendizado para alcançar meu objetivos! Descobrir insights profundos e impulsionam estratégias de negócios com o objetivo de fazer a diferença é o meu objetivo.
