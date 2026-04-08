@@ -1,11 +1,11 @@
 <img align="center" src="https://github.com/user-attachments/assets/28de1fbc-fa4e-4ab8-8fc1-b10388d77356">
 <h1 align="center">Olá sou Yan Germano</h1>
 
-<h3 align="center">Entusiasta apaixonado por Ciência de Dados.</h3>
+<h3 align="center">Entusiasta apaixonado por Engenharia de dados.</h3>
 
-Sou um entusiasta de ciência de dados imerso em projetos para aprimorar minhas habilidades técnicas. Estou em constante aprendizado para alcançar meu objetivos! Descobrir insights profundos e impulsionam estratégias de negócios com o objetivo de fazer a diferença é o meu objetivo.
+Sou um entusiasta de engenharia de dados imerso em projetos para aprimorar minhas habilidades técnicas. Estou em constante aprendizado para alcançar meu objetivos! Descobrir insights profundos e impulsionam estratégias de negócios com o objetivo de fazer a diferença é o meu objetivo.
 
-- 🔭 Atualmente estou trabalhando como Tech Support Engineer<br>
+- 🔭 Atualmente estou trabalhando como BI Data Analytics<br>
 - 🌱 Estou estudando: **Python, Pandas, Numpy, Cloud computing...**<br>
 - ⚡ Curiosidade: **Amo tocar guitarra :D**
 ## 👨‍💻 Projetos:
