@@ -9,6 +9,7 @@ Sou um entusiasta de engenharia de dados imerso em projetos para aprimorar minha
 - 🌱 Estou estudando: **Python, Pandas, Numpy, Cloud computing...**<br>
 - ⚡ Curiosidade: **Amo tocar guitarra :D**
 ## 👨‍💻 Projetos:
+- [Data Lake](https://github.com/YanGermanoSantos/data-lake-pod-academy)
 - [Analisando dados do Airbnb](https://github.com/YanGermanoSantos/YanGermano_Data_Science/blob/main/Analisando_os_Dados_do_Airbnb.ipynb)
 - [Maior causa de acidentes nas rodovias brasileiras](https://github.com/YanGermanoSantos/Analise_Dados_PRF)
  
